@@ -1,0 +1,1307 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Transport\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-27 14:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.2; wp-5.5"
+
+#: anps-framework/options_page_setup_view.php:236
+#, php-format
+msgid ""
+"%s Important! %s The textarea above is meant for the slider shortcode. It "
+"will be shown on the home page before the rest of the site. Add slider "
+"shortcode inside the content area above for tis menu type to work. %s If you "
+"imported our demo, you will also need to remove the slider on your homepage "
+"and remove the negative margin on first row (check the screenshot below)."
+msgstr ""
+
+#: comments.php:12
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:20
+#: anps-framework/options_page_setup_view.php:35
+#: anps-framework/options_page_setup_view.php:376
+#: anps-framework/options_page_setup_view.php:403
+#: anps-framework/options_page_setup_view.php:432
+#: anps-framework/options_page_view.php:283
+msgid "*** Select ***"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:433
+#: anps-framework/options_page_view.php:285
+msgid "1 column"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:377
+msgid "1/3 + 2/3"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:64
+#: anps-framework/options_page_setup_view.php:377
+#: anps-framework/options_page_setup_view.php:404
+#: anps-framework/options_page_setup_view.php:433
+#: anps-framework/options_page_view.php:285
+msgid "2 columns"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:377
+msgid "2/3 + 1/3"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:64
+#: anps-framework/options_page_setup_view.php:404
+msgid "3 columns"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:64
+#: anps-framework/options_page_setup_view.php:377
+msgid "4 columns"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:33
+msgid "404 error page"
+msgstr ""
+
+#: anps-framework/style_view.php:287
+msgid "Above menu background color"
+msgstr ""
+
+#: anps-framework/widgets.php:46
+msgid "Above navigation bar"
+msgstr ""
+
+#: anps-framework/google_maps_view.php:14
+#, php-format
+msgid ""
+"All Google Maps applications require authentication. Go to %s and follow the "
+"described steps to retrieve an API key. Please read it carefully as there "
+"are different methods for Standard users and Premium users. Input your "
+"Google Maps API code in the above input field."
+msgstr ""
+
+#. Author of the theme
+msgid "AnpsThemes"
+msgstr ""
+
+#: sidebar-secondary.php:27
+msgid "Archives"
+msgstr ""
+
+#: anps-framework/options_media_view.php:72
+msgid "Auto adjust logo size?"
+msgstr ""
+
+#: anps-framework/theme_upgrade_view.php:14
+msgid "Automatic Updating"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:169
+msgid "Background color"
+msgstr ""
+
+#: anps-framework/style_view.php:137
+msgid "Body Font Size"
+msgstr ""
+
+#: anps-framework/options_page_view.php:28
+msgid "Boxed"
+msgstr ""
+
+#: anps-framework/style_view.php:343 anps-framework/style_view.php:368
+#: anps-framework/style_view.php:393 anps-framework/style_view.php:417
+#: anps-framework/style_view.php:441 anps-framework/style_view.php:457
+#: anps-framework/style_view.php:481 anps-framework/style_view.php:506
+msgid "Button"
+msgstr ""
+
+#: anps-framework/style_view.php:371 anps-framework/style_view.php:396
+#: anps-framework/style_view.php:460 anps-framework/style_view.php:484
+#: anps-framework/style_view.php:509
+msgid "button background"
+msgstr ""
+
+#: anps-framework/style_view.php:432
+msgid "button border color"
+msgstr ""
+
+#: anps-framework/style_view.php:375 anps-framework/style_view.php:400
+#: anps-framework/style_view.php:420 anps-framework/style_view.php:444
+#: anps-framework/style_view.php:464 anps-framework/style_view.php:488
+#: anps-framework/style_view.php:513
+msgid "button color"
+msgstr ""
+
+#: anps-framework/style_view.php:505
+msgid "Button for header style-6"
+msgstr ""
+
+#: anps-framework/style_view.php:379 anps-framework/style_view.php:404
+#: anps-framework/style_view.php:424 anps-framework/style_view.php:468
+#: anps-framework/style_view.php:492 anps-framework/style_view.php:517
+msgid "button hover background"
+msgstr ""
+
+#: anps-framework/style_view.php:383 anps-framework/style_view.php:408
+#: anps-framework/style_view.php:428 anps-framework/style_view.php:448
+#: anps-framework/style_view.php:472 anps-framework/style_view.php:496
+#: anps-framework/style_view.php:521
+msgid "button hover color"
+msgstr ""
+
+#: anps-framework/style_view.php:456
+msgid "Button slider"
+msgstr ""
+
+#: anps-framework/style_view.php:367
+msgid "Button style-1"
+msgstr ""
+
+#: anps-framework/style_view.php:392
+msgid "Button style-2"
+msgstr ""
+
+#: anps-framework/style_view.php:416
+msgid "Button style-3"
+msgstr ""
+
+#: anps-framework/style_view.php:440
+msgid "Button style-4"
+msgstr ""
+
+#: anps-framework/style_view.php:480
+msgid "Button style-5"
+msgstr ""
+
+#: anps-framework/style_view.php:337
+msgid "Button styles"
+msgstr ""
+
+#: anps-framework/style_view.php:339
+msgid "Button styles will refresh after clicking \"Save all changes\"."
+msgstr ""
+
+#: search.php:32
+msgid "By"
+msgstr ""
+
+#: anps-framework/widgets.php:30 anps-framework/widgets.php:39
+msgid ""
+"Can only contain Text, Search, Custom menu and WPML Languge selector widgets"
+msgstr ""
+
+#: anps-framework/style_view.php:275
+msgid "Cart number background color"
+msgstr ""
+
+#: anps-framework/style_view.php:279
+msgid "Cart number text color"
+msgstr ""
+
+#: anps-framework/style_view.php:180
+msgid "Choose a predefined colour scheme"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:18
+msgid "Coming soon page"
+msgstr ""
+
+#: comments.php:5 content-single.php:68
+msgid "Comments"
+msgstr ""
+
+#: attachment.php:90 content-blog-grid.php:55 content-blog-grid.php:81
+#: content-blog-masonry.php:46 content-single-blog.php:53
+#: content-single-blog.php:88 content-single-blog.php:124 content.php:61
+msgid "comments"
+msgstr ""
+
+#: comments.php:18
+msgid "Comments are closed."
+msgstr ""
+
+#: anps-framework/style_view.php:145
+msgid "Content Heading 1 Font Size"
+msgstr ""
+
+#: anps-framework/style_view.php:149
+msgid "Content Heading 2 Font Size"
+msgstr ""
+
+#: anps-framework/style_view.php:153
+msgid "Content Heading 3 Font Size"
+msgstr ""
+
+#: anps-framework/style_view.php:157
+msgid "Content Heading 4 Font Size"
+msgstr ""
+
+#: anps-framework/style_view.php:161
+msgid "Content Heading 5 Font Size"
+msgstr ""
+
+#: anps-framework/import_export_view.php:21
+msgid "Copy to clipboard"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:430
+msgid "Copyright footer"
+msgstr ""
+
+#: anps-framework/widgets.php:254 anps-framework/widgets.php:256
+#: anps-framework/widgets.php:264 anps-framework/widgets.php:266
+msgid "Copyright footer 1"
+msgstr ""
+
+#: anps-framework/widgets.php:273 anps-framework/widgets.php:275
+msgid "Copyright footer 2"
+msgstr ""
+
+#: anps-framework/style_view.php:331
+msgid "Copyright footer background color"
+msgstr ""
+
+#: anps-framework/style_view.php:327
+msgid "Copyright footer text color"
+msgstr ""
+
+#: anps-framework/system_req_view.php:35
+msgid "Currently"
+msgstr ""
+
+#: anps-framework/options_page_view.php:88
+msgid "Custom background color"
+msgstr ""
+
+#: anps-framework/options_page_view.php:82
+msgid "Custom background image/pattern"
+msgstr ""
+
+#: anps-framework/options_page_view.php:63
+msgid "Custom background type"
+msgstr ""
+
+#: anps-framework/options_page_view.php:65
+msgid "custom color"
+msgstr ""
+
+#: anps-framework/admin_view.php:9 anps-framework/custom_css_view.php:11
+#: anps-framework/custom_css_view.php:13
+msgid "Custom css"
+msgstr ""
+
+#: anps-framework/style_view.php:18
+msgid "Custom font styles"
+msgstr ""
+
+#: anps-framework/admin_view.php:8
+msgid "Custom fonts"
+msgstr ""
+
+#: anps-framework/options_page_view.php:262
+msgid "Custom vertical menu background image"
+msgstr ""
+
+#: anps-framework/style_view.php:186
+msgid "Default"
+msgstr ""
+
+#: anps-framework/style_view.php:342
+msgid "Default button"
+msgstr ""
+
+#: anps-framework/style_view.php:346
+msgid "Default button background"
+msgstr ""
+
+#: anps-framework/style_view.php:350
+msgid "Default button color"
+msgstr ""
+
+#: anps-framework/style_view.php:354
+msgid "Default button hover background"
+msgstr ""
+
+#: anps-framework/style_view.php:358
+msgid "Default button hover color"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:277
+msgid "Description"
+msgstr ""
+
+#: anps-framework/options_page_view.php:94
+msgid "Desktop Container Width"
+msgstr ""
+
+#: anps-framework/options_page_view.php:233
+msgid "Disable breadcrumbs"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:391
+msgid "Disable footer"
+msgstr ""
+
+#: anps-framework/options_page_view.php:276
+msgid "Disable page comments"
+msgstr ""
+
+#: anps-framework/options_page_view.php:221
+msgid "Disable page title, breadcrumbs and background"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:462
+msgid "Disable Post meta elements"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:262
+msgid "Display above menu bar?"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:335
+msgid "Display background color behind logo"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:308
+msgid "Display search icon in menu (desktop)?"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:317
+msgid "Display search on mobile and tablets?"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:49
+msgid "Display shopping cart icon in header?"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:244
+msgid "Display top bar?"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:351
+msgid "Dropdown selection states"
+msgstr ""
+
+#: anps-framework/admin_view.php:14
+msgid "Dummy Content"
+msgstr ""
+
+#: comments.php:27
+msgid "E-mail"
+msgstr ""
+
+#: functions.php:663
+msgid "Edit Account"
+msgstr ""
+
+#: functions.php:657
+msgid "Edit Billing Address"
+msgstr ""
+
+#: functions.php:660
+msgid "Edit Shipping Address"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:326
+msgid "Enable menu walker (mega menu)"
+msgstr ""
+
+#: anps-framework/options_page_view.php:255
+msgid "Enable Vertical menu"
+msgstr ""
+
+#: anps-framework/options_media_view.php:108
+msgid "Enter an URL or upload an image for the favicon."
+msgstr ""
+
+#: anps-framework/options_media_view.php:63
+#: anps-framework/options_media_view.php:96
+msgid "Enter an URL or upload an image for the logo."
+msgstr ""
+
+#: anps-framework/options_media_view.php:26
+msgid "Enter an URL or upload an image for the page heading background."
+msgstr ""
+
+#: anps-framework/options_media_view.php:34
+msgid "Enter an URL or upload an image for the search page heading background."
+msgstr ""
+
+#: anps-framework/import_export_view.php:12
+#: anps-framework/import_export_view.php:18
+#: anps-framework/import_export_widgets_view.php:22
+msgid "Export"
+msgstr ""
+
+#: anps-framework/import_export_widgets_view.php:19
+msgid "Export widgets"
+msgstr ""
+
+#: anps-framework/options_media_view.php:102
+msgid "Favicon"
+msgstr ""
+
+#: anps-framework/options_media_view.php:38
+msgid "Favicon and logo:"
+msgstr ""
+
+#: anps-framework/style_view.php:17
+msgid "Font family"
+msgstr ""
+
+#: anps-framework/style_view.php:135
+msgid "Font sizes"
+msgstr ""
+
+#: anps-framework/style_view.php:20
+msgid "Font type 1"
+msgstr ""
+
+#: anps-framework/style_view.php:58
+msgid "Font type 2"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:388
+msgid "Footer"
+msgstr ""
+
+#: anps-framework/widgets.php:168 anps-framework/widgets.php:170
+#: anps-framework/widgets.php:187 anps-framework/widgets.php:189
+#: anps-framework/widgets.php:215 anps-framework/widgets.php:217
+msgid "Footer 1"
+msgstr ""
+
+#: anps-framework/widgets.php:177 anps-framework/widgets.php:179
+#: anps-framework/widgets.php:196 anps-framework/widgets.php:198
+#: anps-framework/widgets.php:224 anps-framework/widgets.php:226
+msgid "Footer 2"
+msgstr ""
+
+#: anps-framework/widgets.php:205 anps-framework/widgets.php:207
+#: anps-framework/widgets.php:233 anps-framework/widgets.php:235
+msgid "Footer 3"
+msgstr ""
+
+#: anps-framework/widgets.php:242 anps-framework/widgets.php:244
+msgid "Footer 4"
+msgstr ""
+
+#: anps-framework/style_view.php:303
+msgid "Footer background color"
+msgstr ""
+
+#: anps-framework/style_view.php:301
+msgid "Footer colors"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:401
+msgid "Footer columns"
+msgstr ""
+
+#: anps-framework/style_view.php:323
+msgid "Footer divider color"
+msgstr ""
+
+#: anps-framework/style_view.php:311
+msgid "Footer heading text color"
+msgstr ""
+
+#: anps-framework/style_view.php:319
+msgid "Footer hover color"
+msgstr ""
+
+#: anps-framework/style_view.php:315
+msgid "Footer selected color"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:416
+msgid "Footer style"
+msgstr ""
+
+#: anps-framework/style_view.php:307
+msgid "Footer text color"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:186
+msgid "Front page logo"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:177
+msgid "Front page top bar background color"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:173
+msgid "Front page top bar color"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:181
+msgid "Front page top bar link hover color"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:131
+msgid "Front page Top Menu"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:226
+msgid "Full screen content"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:241
+msgid "General Top Menu Settings"
+msgstr ""
+
+#: anps-framework/admin_view.php:13 anps-framework/google_maps_view.php:9
+msgid "Google Maps"
+msgstr ""
+
+#: anps-framework/google_maps_view.php:12
+msgid "Google Maps API code"
+msgstr ""
+
+#: anps-framework/style_view.php:194
+msgid "Green"
+msgstr ""
+
+#: anps-framework/style_view.php:245
+msgid "Header colors"
+msgstr ""
+
+#: anps-framework/options_page_view.php:202
+msgid "Heading"
+msgstr ""
+
+#: anps-framework/options_media_view.php:20
+msgid "Heading background:"
+msgstr ""
+
+#: anps-framework/style_view.php:220
+msgid "Headings color"
+msgstr ""
+
+#: anps-framework/options_page_view.php:17
+msgid ""
+"Here you can change all the settings about responsive layout and will your "
+"site be boxed (when checked you will have more options)."
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:358
+msgid "Hover color"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:355
+msgid "Hover color & bottom border"
+msgstr ""
+
+#: anps-framework/style_view.php:216
+msgid "Hovers color"
+msgstr ""
+
+#. URI of the theme
+msgid "http://themeforest.net/user/Anps/portfolio"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://anpsthemes.com/"
+msgstr ""
+
+#: anps-framework/options_media_view.php:39
+msgid ""
+"If you would like to use your logo and favicon, upload them to your theme "
+"here."
+msgstr ""
+
+#: anps-framework/system_req_view.php:28
+msgid ""
+"If your values do not match the recommended values, you could experience "
+"issues with your theme. In this case do contact your hosting provider for "
+"assistance."
+msgstr ""
+
+#: anps-framework/import_export_view.php:26
+#: anps-framework/import_export_view.php:31
+#: anps-framework/import_export_widgets_view.php:30
+msgid "Import"
+msgstr ""
+
+#: anps-framework/import_export_widgets_view.php:26
+msgid "Import widgets"
+msgstr ""
+
+#: anps-framework/admin_view.php:16
+msgid "Import/Export"
+msgstr ""
+
+#: anps-framework/admin_view.php:17
+msgid "Import/Export widgets"
+msgstr ""
+
+#: anps-framework/dummy_view.php:17
+msgid ""
+"Importing demo content is the fastest way to get you started. <br/> Please "
+"<strong>install all plugins required by the theme</strong> before importing "
+"content. If you already have some content on your site, make a backup just "
+"in case."
+msgstr ""
+
+#: search.php:23
+msgid "in"
+msgstr ""
+
+#: anps-framework/dummy_view.php:25 anps-framework/dummy_view.php:35
+#: anps-framework/dummy_view.php:45 anps-framework/dummy_view.php:55
+#: anps-framework/dummy_view.php:65 anps-framework/dummy_view.php:75
+#: anps-framework/dummy_view.php:85 anps-framework/dummy_view.php:95
+msgid "Insert dummy content"
+msgstr ""
+
+#: anps-framework/dummy_view.php:16
+msgid "Insert dummy content: posts, pages, categories"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"It can be used for business and corporate sites, your portfolio site or "
+"customize it to suit your wishes. Easy to use and clean code will be a "
+"simple task to get you up and running in no time. And with our support you "
+"cannot go wrong."
+msgstr ""
+
+#: 404.php:14
+msgid "It seems that something went wrong!"
+msgstr ""
+
+#: anps-framework/widgets.php:56
+msgid "Large above menu"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:193
+msgid "Large above menu style"
+msgstr ""
+
+#: anps-framework/widgets.php:58
+msgid "Large above menu."
+msgstr ""
+
+#: comments.php:36
+msgid "Leave a reply"
+msgstr ""
+
+#: anps-framework/options_page_view.php:107
+#: anps-framework/options_page_view.php:158
+msgid "Left Sidebar"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:455
+msgid "Legacy mode"
+msgstr ""
+
+#: anps-framework/style_view.php:190
+msgid "Light blue"
+msgstr ""
+
+#: anps-framework/options_media_view.php:43
+msgid "Logo"
+msgstr ""
+
+#: anps-framework/style_view.php:283
+msgid "Logo background color"
+msgstr ""
+
+#: anps-framework/options_media_view.php:128
+msgid "Logo font"
+msgstr ""
+
+#: anps-framework/options_media_view.php:84
+msgid "Logo height"
+msgstr ""
+
+#: anps-framework/options_media_view.php:79
+msgid "Logo width"
+msgstr ""
+
+#: anps-framework/admin_view.php:12
+msgid "Logos & Media"
+msgstr ""
+
+#: functions.php:666
+msgid "Logout"
+msgstr ""
+
+#: anps-framework/style_view.php:225
+msgid "Main divider color"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:347
+msgid "Main menu height in pixels"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:345
+msgid "Main menu settings"
+msgstr ""
+
+#: anps-framework/style_view.php:204
+msgid "Main theme colors"
+msgstr ""
+
+#: anps-framework/theme_upgrade_view.php:13
+msgid "Manual Updating"
+msgstr ""
+
+#: anps-framework/system_req_view.php:3
+msgid "Max execution time"
+msgstr ""
+
+#: anps-framework/system_req_view.php:6
+msgid "Max post size"
+msgstr ""
+
+#: anps-framework/system_req_view.php:4
+msgid "Memory limit"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:275
+msgid "Menu"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:207
+msgid "Menu button"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:216
+msgid "Menu button text"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:220
+msgid "Menu button url"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:289
+msgid "Menu centered"
+msgstr ""
+
+#: anps-framework/style_view.php:141
+msgid "Menu Font Size"
+msgstr ""
+
+#: anps-framework/style_view.php:247
+msgid "Menu text color"
+msgstr ""
+
+#: comments.php:33 comments.php:47
+msgid "Message"
+msgstr ""
+
+#: sidebar-secondary.php:34
+msgid "Meta"
+msgstr ""
+
+#: anps-framework/options_page_view.php:281
+msgid "Mobile layout"
+msgstr ""
+
+#: functions.php:649
+msgid "My Orders"
+msgstr ""
+
+#: functions.php:653
+msgid "My Wishlist"
+msgstr ""
+
+#: comments.php:26
+msgid "Name"
+msgstr ""
+
+#: anps-framework/style_view.php:96
+msgid "Navigation font type"
+msgstr ""
+
+#: comments.php:13
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: archive.php:9
+msgid "Next"
+msgstr ""
+
+#: single-portfolio.php:104
+msgid "next"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:264
+msgid "No"
+msgstr ""
+
+#: search.php:42
+msgid "No results found for:"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:277
+msgid "Normal"
+msgstr ""
+
+#: anps-framework/style_view.php:206
+msgid ""
+"Not satisfied with the premade color schemes? Here you can set your custom "
+"colors."
+msgstr ""
+
+#: search.php:32
+msgid "on"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:445
+msgid "Only for backwards compatibility. Do not use on fresh install."
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:246
+msgid "Only on desktop"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:246
+msgid "Only on tablet/mobile"
+msgstr ""
+
+#: anps-framework/options_page_view.php:268
+msgid "Page comments"
+msgstr ""
+
+#: anps-framework/style_view.php:259
+msgid "Page header background color"
+msgstr ""
+
+#: anps-framework/style_view.php:166
+msgid "Page Heading 1 Font Size"
+msgstr ""
+
+#: anps-framework/options_media_view.php:23
+msgid "Page heading background"
+msgstr ""
+
+#: anps-framework/style_view.php:291
+msgid "Page heading background color"
+msgstr ""
+
+#: anps-framework/style_view.php:295
+msgid "Page heading text color"
+msgstr ""
+
+#: anps-framework/admin_view.php:10
+msgid "Page layout"
+msgstr ""
+
+#: anps-framework/options_page_view.php:16
+msgid "Page layout:"
+msgstr ""
+
+#: anps-framework/admin_view.php:11
+#: anps-framework/options_page_setup_view.php:15
+msgid "Page setup"
+msgstr ""
+
+#: anps-framework/options_page_view.php:102
+msgid "Page Sidebars"
+msgstr ""
+
+#: anps-framework/options_page_view.php:205
+msgid "Page title and breadcrumbs style"
+msgstr ""
+
+#: anps-framework/options_page_view.php:39
+msgid "Pattern"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:102
+msgid "Portfolio"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:119
+msgid "Portfolio single footer"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:105
+msgid "Portfolio single style"
+msgstr ""
+
+#: comments.php:35 comments.php:49 comments.php:50
+msgid "Post comment"
+msgstr ""
+
+#: anps-framework/options_page_view.php:153
+msgid "Post Sidebars"
+msgstr ""
+
+#: attachment.php:91 content-single-blog.php:69 content-single-blog.php:107
+#: content-single-blog.php:139 content.php:81
+msgid "posted by"
+msgstr ""
+
+#: anps-framework/style_view.php:179
+msgid "Predefined color Scheme"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:363
+#: anps-framework/options_page_setup_view.php:365
+msgid "Prefooter"
+msgstr ""
+
+#: anps-framework/widgets.php:81 anps-framework/widgets.php:83
+#: anps-framework/widgets.php:100 anps-framework/widgets.php:102
+#: anps-framework/widgets.php:128 anps-framework/widgets.php:130
+msgid "Prefooter 1"
+msgstr ""
+
+#: anps-framework/widgets.php:90 anps-framework/widgets.php:92
+#: anps-framework/widgets.php:109 anps-framework/widgets.php:111
+#: anps-framework/widgets.php:137 anps-framework/widgets.php:139
+msgid "Prefooter 2"
+msgstr ""
+
+#: anps-framework/widgets.php:118 anps-framework/widgets.php:120
+#: anps-framework/widgets.php:146 anps-framework/widgets.php:148
+msgid "Prefooter 3"
+msgstr ""
+
+#: anps-framework/widgets.php:155 anps-framework/widgets.php:157
+msgid "Prefooter 4"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:374
+msgid "Prefooter style"
+msgstr ""
+
+#: single-portfolio.php:103
+msgid "prev"
+msgstr ""
+
+#: archive.php:8
+msgid "Previous "
+msgstr ""
+
+#: anps-framework/style_view.php:212
+msgid "Primary color"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:93
+msgid "Product image lightbox"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:83
+msgid "Product image zoom"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:77
+msgid "Products per page"
+msgstr ""
+
+#: content-columns.php:56 content.php:102
+msgid "Read more"
+msgstr ""
+
+#: anps-framework/system_req_view.php:36
+msgid "Recommended"
+msgstr ""
+
+#: anps-framework/style_view.php:198
+msgid "Red"
+msgstr ""
+
+#: anps-framework/options_page_view.php:129
+#: anps-framework/options_page_view.php:180
+msgid "Right Sidebar"
+msgstr ""
+
+#: anps-framework/custom_css_view.php:25 anps-framework/google_maps_view.php:18
+#: anps-framework/options_media_view.php:16
+#: anps-framework/options_media_view.php:152
+#: anps-framework/options_page_setup_view.php:10
+#: anps-framework/options_page_setup_view.php:484
+#: anps-framework/options_page_view.php:10
+#: anps-framework/options_page_view.php:297 anps-framework/style_view.php:13
+#: anps-framework/style_view.php:531
+#: anps-framework/update_custom_font_view.php:10
+#: anps-framework/update_custom_font_view.php:21
+msgid "Save all changes"
+msgstr ""
+
+#: anps-framework/options_media_view.php:31
+msgid "Search page heading background"
+msgstr ""
+
+#: functions.php:467
+msgid "Search..."
+msgstr ""
+
+#: anps-framework/widgets.php:18
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: anps-framework/widgets.php:20
+msgid "Secondary widget area"
+msgstr ""
+
+#: anps-framework/theme_upgrade_view.php:10
+msgid "See our step by step tutorials:"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:165
+#: anps-framework/style_view.php:267
+msgid "Selected main menu color"
+msgstr ""
+
+#: anps-framework/style_view.php:181
+msgid ""
+"Selecting one of this schemes will import the predefined colors below, which "
+"you can then edit as you like."
+msgstr ""
+
+#: anps-framework/style_view.php:205
+msgid "Set your custom colors"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:62
+msgid "Shop pages product columns"
+msgstr ""
+
+#: anps-framework/style_view.php:231
+msgid "Side submenu background color"
+msgstr ""
+
+#: anps-framework/style_view.php:235
+msgid "Side submenu text color"
+msgstr ""
+
+#: anps-framework/style_view.php:239
+msgid "Side submenu text hover color"
+msgstr ""
+
+#: anps-framework/widgets.php:9
+msgid "Sidebar"
+msgstr ""
+
+#: anps-framework/style_view.php:170
+msgid "Single blog page heading 1 Font Size"
+msgstr ""
+
+#: anps-framework/options_media_view.php:90
+msgid "Sticky logo"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:299
+msgid "Sticky menu"
+msgstr ""
+
+#: anps-framework/options_page_view.php:65
+msgid "stretched"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:107
+#: anps-framework/options_page_setup_view.php:195
+#: anps-framework/options_page_view.php:208
+msgid "Style 1"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:418
+msgid "style 1"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:107
+#: anps-framework/options_page_setup_view.php:195
+#: anps-framework/options_page_view.php:208
+msgid "Style 2"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:418
+msgid "style 2"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:418
+msgid "style 3"
+msgstr ""
+
+#: anps-framework/style_view.php:263
+msgid "Submenu background color"
+msgstr ""
+
+#: anps-framework/style_view.php:271
+msgid "Submenu text color"
+msgstr ""
+
+#: anps-framework/admin_view.php:18 anps-framework/system_req_view.php:26
+msgid "System requirements"
+msgstr ""
+
+#: anps-framework/options_media_view.php:112
+#: anps-framework/options_media_view.php:114
+msgid "Text based logo"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:157
+#: anps-framework/style_view.php:208
+msgid "Text color"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:161
+msgid "Text hover color"
+msgstr ""
+
+#: anps-framework/widgets.php:11
+msgid "The primary widget area"
+msgstr ""
+
+#: anps-framework/theme_upgrade_view.php:8
+msgid ""
+"The second method is the upload the theme manually, either via FTP or a "
+"server file system. This method requires you to download the theme files "
+"from ThemeForest and uploading the files manually to your server."
+msgstr ""
+
+#: anps-framework/admin_view.php:4
+msgid "Theme Options"
+msgstr ""
+
+#: anps-framework/admin_view.php:6
+msgid "Theme Style"
+msgstr ""
+
+#: anps-framework/theme_upgrade_view.php:4
+msgid "Theme Update"
+msgstr ""
+
+#: anps-framework/admin_view.php:15
+msgid "Theme upgrade"
+msgstr ""
+
+#: anps-framework/theme_upgrade_view.php:6
+#, php-format
+msgid ""
+"There are two methods of updating the theme. The first method is to use the "
+"official Envato plugin %sEnvato Market%s. This method requires you to "
+"generate a token on the %sEnvato API site%s."
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:463
+msgid ""
+"This allows you to disable post meta on all blog elements and pages. By "
+"default no field is checked, so that all meta elements are displayed."
+msgstr ""
+
+#: anps-framework/widgets.php:48
+msgid ""
+"This is a bar above main navigation. Can only contain Text, Search, Custom "
+"menu and WPML Languge selector widgets"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:189
+msgid ""
+"This option is meant for logo color adjustments if needed. Please make sure, "
+"the logo is exact same size as logo on other pages."
+msgstr ""
+
+#: anps-framework/options_page_view.php:245
+msgid "This option overrides other menu options"
+msgstr ""
+
+#: 404.php:15
+msgid "This page does not exist."
+msgstr ""
+
+#: comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: anps-framework/widgets.php:68
+msgid "This widget displays only on desktop mode in vertical menu."
+msgstr ""
+
+#: anps-framework/options_page_view.php:103
+msgid ""
+"This will change the default sidebar value on all pages. It can be changed "
+"on each page individually."
+msgstr ""
+
+#: anps-framework/options_page_view.php:154
+msgid ""
+"This will change the default sidebar value on all posts. It can be changed "
+"on each post individually."
+msgstr ""
+
+#: anps-framework/options_page_view.php:65
+msgid "tilled"
+msgstr ""
+
+#: anps-framework/style_view.php:255
+msgid "Top bar background color"
+msgstr ""
+
+#: anps-framework/style_view.php:174
+msgid "Top bar font size"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:257
+msgid "Top bar height in pixels"
+msgstr ""
+
+#: anps-framework/widgets.php:28
+msgid "Top bar left"
+msgstr ""
+
+#: anps-framework/widgets.php:37
+msgid "Top bar right"
+msgstr ""
+
+#: anps-framework/style_view.php:251
+msgid "Top bar text color"
+msgstr ""
+
+#. Name of the theme
+msgid "Transport"
+msgstr ""
+
+#: anps-framework/admin_view.php:7 anps-framework/update_google_font_view.php:9
+#: anps-framework/update_google_font_view.php:11
+msgid "Update google fonts"
+msgstr ""
+
+#: anps-framework/update_custom_font_view.php:14
+msgid "Upload custom fonts"
+msgstr ""
+
+#: anps-framework/system_req_view.php:5
+msgid "Upload max filesize"
+msgstr ""
+
+#: anps-framework/options_page_view.php:244
+msgid "Vertical menu"
+msgstr ""
+
+#: anps-framework/widgets.php:66
+msgid "Vertical menu bottom widget"
+msgstr ""
+
+#: functions.php:600 functions.php:618
+msgid "View your shopping cart"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:444
+msgid "Visual composer"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:47
+msgid "WooCommerce"
+msgstr ""
+
+#: anps-framework/options_page_setup_view.php:246
+#: anps-framework/options_page_setup_view.php:264
+msgid "Yes"
+msgstr ""

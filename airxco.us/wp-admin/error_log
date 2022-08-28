@@ -1,0 +1,15 @@
+[23-Jan-2022 04:58:53 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[27-Jan-2022 11:02:29 UTC] PHP Warning:  sprintf(): Too few arguments in /home/aojdym6goxm4/public_html/demo.techtruckers.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 156
+[27-Jan-2022 11:02:29 UTC] PHP Warning:  sprintf(): Too few arguments in /home/aojdym6goxm4/public_html/demo.techtruckers.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 156
+[27-Jan-2022 11:02:29 UTC] PHP Warning:  sprintf(): Too few arguments in /home/aojdym6goxm4/public_html/demo.techtruckers.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 156
+[27-Jan-2022 11:02:31 UTC] PHP Warning:  sprintf(): Too few arguments in /home/aojdym6goxm4/public_html/demo.techtruckers.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 156
+[27-Jan-2022 11:02:41 UTC] PHP Warning:  sprintf(): Too few arguments in /home/aojdym6goxm4/public_html/demo.techtruckers.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 156
+[27-Jan-2022 11:02:51 UTC] PHP Warning:  sprintf(): Too few arguments in /home/aojdym6goxm4/public_html/demo.techtruckers.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 156
+[27-Jan-2022 11:13:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aojdym6goxm4/public_html/demo.techtruckers.com/wp-includes/class-wp-image-editor-imagick.php on line 386
+[27-Jan-2022 11:15:16 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aojdym6goxm4/public_html/demo.techtruckers.com/wp-includes/class-wp-image-editor-imagick.php on line 386
+[27-Jan-2022 11:15:43 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aojdym6goxm4/public_html/demo.techtruckers.com/wp-includes/class-wp-image-editor-imagick.php on line 386
+[04-Feb-2022 10:29:56 UTC] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home/aojdym6goxm4/public_html/demo.techtruckers.com/wp-content/plugins/wp-optimize/cache/class-wpo-cache-preloader.php on line 622
+[04-Feb-2022 10:29:56 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/aojdym6goxm4/public_html/demo.techtruckers.com/wp-content/plugins/wp-optimize/cache/class-wpo-cache-preloader.php on line 622
+[04-Feb-2022 10:29:56 UTC] PHP Warning:  file_get_contents(https://demo.techtruckers.com/sitemap.xml): failed to open stream: operation failed in /home/aojdym6goxm4/public_html/demo.techtruckers.com/wp-content/plugins/wp-optimize/cache/class-wpo-cache-preloader.php on line 622
+[22-Feb-2022 08:24:16 UTC] cert bundle available

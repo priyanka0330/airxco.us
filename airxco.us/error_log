@@ -1,0 +1,2 @@
+[23-Feb-2022 07:57:16 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aojdym6goxm4/public_html/airxco.us/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Features/Marketing.php on line 270
+[25-Feb-2022 17:34:36 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aojdym6goxm4/public_html/airxco.us/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Features/Marketing.php on line 270
